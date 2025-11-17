@@ -24,7 +24,7 @@ This project is a mobile application built using Flutter and Dart that allows us
 ## Installation
 1. Clone the repository using the command:
 ```dart 
-git clone https://github.com/aslisubhash/Flutter-UPI-Pay-and-UPI-mandate
+git clone https://github.com/akash2211250/Flutter-UPI-PAY
 ```
 2. Navigate to the project directory using the command:
 ```dart 
